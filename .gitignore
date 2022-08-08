@@ -104,3 +104,4 @@ out/
 .idea/*
 
 *.db
+microblog/**/*.log
